@@ -1,8 +1,15 @@
-# React + Vite
+# Made by Abhay Gautam
+### React + vite + TailwindCSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React & Tailwind CSS Project
 
-Currently, two official plugins are available:
+## Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This project is a React application styled with Tailwind CSS. It demonstrates how to set up and use Tailwind CSS within a React environment, providing a modern and responsive design with utility-first styling.
+
+## Features
+
+- React for building user interfaces
+- Tailwind CSS for utility-first styling
+- Responsive design
+- Easy-to-customize configuration
