@@ -1,6 +1,3 @@
-# Made by Abhay Gautam
-### React + vite + TailwindCSS
-
 # React & Tailwind CSS Project
 
 ## Overview
@@ -13,3 +10,5 @@ This project is a React application styled with Tailwind CSS. It demonstrates ho
 - Tailwind CSS for utility-first styling
 - Responsive design
 - Easy-to-customize configuration
+
+* Made by Abhay Gautam
